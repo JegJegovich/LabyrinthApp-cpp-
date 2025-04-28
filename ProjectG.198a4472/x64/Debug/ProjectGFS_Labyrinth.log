@@ -1,0 +1,32 @@
+﻿  main.cpp
+E:\projects\ProjectGFS_Labyrinth\main.cpp(37,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,47): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,47): warning C4244:         with
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,47): warning C4244:         [
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,47): warning C4244:             T=unsigned int
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,47): warning C4244:         ]
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,29): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,29): warning C4244:         with
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,29): warning C4244:         [
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,29): warning C4244:             T=unsigned int
+E:\projects\ProjectGFS_Labyrinth\main.cpp(64,29): warning C4244:         ]
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,62): warning C4244:         with
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,62): warning C4244:         [
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,62): warning C4244:             T=float
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,62): warning C4244:         ]
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,48): warning C4244:         with
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,48): warning C4244:         [
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,48): warning C4244:             T=float
+E:\projects\ProjectGFS_Labyrinth\main.cpp(109,48): warning C4244:         ]
+E:\projects\ProjectGFS_Labyrinth\main.cpp(114,36): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(259,101): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(259,96): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(268,100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(268,93): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(277,101): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(277,96): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(286,100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\projects\ProjectGFS_Labyrinth\main.cpp(286,93): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ProjectGFS_Labyrinth.vcxproj -> E:\projects\ProjectGFS_Labyrinth\x64\Debug\ProjectGFS_Labyrinth.exe

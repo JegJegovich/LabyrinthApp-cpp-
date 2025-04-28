@@ -1,0 +1,6 @@
+﻿  main.cpp
+LINK : error LNK2001: неразрешенный внешний символ mainCRTStarter.
+main.obj : error LNK2001: неразрешенный внешний символ __CxxFrameHandler4.
+main.obj : error LNK2001: неразрешенный внешний символ __imp_calloc.
+main.obj : error LNK2001: неразрешенный внешний символ __std_terminate.
+E:\projects\ProjectGFS_Labyrinth\x64\Release\ProjectGFS_Labyrinth.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
