@@ -6,9 +6,13 @@ Das Programm erstellt automatisch Labyrinthe, die der Benutzer selbst durchlaufe
 Hauptfunktionen:
 
 • Labyrinth erstellen: Automatische Generierung von Labyrinthen mit einstellbarer Breite und Höhe.
+
 • Selbst spielen: Benutzer können das Labyrinth manuell lösen.
+
 • Lösung anzeigen: Im Menü kann das Programm den Lösungsweg automatisch anzeigen.
+
 • Neues Labyrinth: Mit einem Klick kann ein neues zufälliges Labyrinth erstellt werden.
+
 • Parameter ändern: Breite und Höhe des Labyrinths können individuell eingestellt werden.
 
 Technologien und Besonderheiten:
