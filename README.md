@@ -4,6 +4,7 @@ Dies ist ein interaktives Maze-Generator- und Maze-Solver-Programm, entwickelt m
 Das Programm erstellt automatisch Labyrinthe, die der Benutzer selbst durchlaufen oder vom Programm lösen lassen kann.
 
 Hauptfunktionen:
+
 • Labyrinth erstellen: Automatische Generierung von Labyrinthen mit einstellbarer Breite und Höhe.
 • Selbst spielen: Benutzer können das Labyrinth manuell lösen.
 • Lösung anzeigen: Im Menü kann das Programm den Lösungsweg automatisch anzeigen.
