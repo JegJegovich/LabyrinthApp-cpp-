@@ -16,7 +16,7 @@ Hauptfunktionen:
 • Parameter ändern: Breite und Höhe des Labyrinths können individuell eingestellt werden.
 
 Technologien und Besonderheiten:
-  Programmiersprache: (z.B. C++ oder C# – je nachdem, womit du es geschrieben hast)
+  Programmiersprache: C++, SFML Bibliothek
 
 Eigener Algorithmus: Für die Erzeugung und Lösung des Labyrinths wird ein von mir entwickelter Wellenalgorithmus (Wave Algorithm) verwendet.
 
